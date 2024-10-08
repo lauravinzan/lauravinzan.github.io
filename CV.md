@@ -4,9 +4,10 @@ permalink: "/cv/"
 layout: page
 ---
 
+<p style="text-align:center;">
 # Laura Vincoleto Zanfolim 
 ## Chemical Engineering Student
-### University of São Paulo
+### University of São Paulo </p> 
 
 Chemical Engineering student, motivated and high-performing, always looking for challenging opportunities to apply and expand their knowledge. Ranked 2nd in her class at the University of São Paulo, with international experience at Instituto Superior Técnico in Lisbon, she stands out for her academic excellence and passion for solving problems in various projects. With an interest in innovations in the aerospace sector and data analysis with Python, she is committed to contributing with dedication and enthusiasm, while developing practical skills and gaining valuable experience.
 
