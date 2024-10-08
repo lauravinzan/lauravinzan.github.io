@@ -17,7 +17,7 @@ minimal: true            # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "About me"}
-  - {file: "Laura_CV_pt.pdf", title: "CV"}
+  - {file: "CV.md", title: "CV"}
   - {file: "README.md"}
 
 
@@ -25,7 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:lauravinzan@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/lauravinzan/lauravinzan"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/lauravz.anv/"}
-
+  - {title: Linkedin, icon: linkedin, url:"https://www.linkedin.com/in/laura-vincoleto-zanfolim-5a42361a2/"}
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
