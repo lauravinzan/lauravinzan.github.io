@@ -38,7 +38,7 @@ Olympiad at High School;
 
 #### Volunteering
 * “MacVestinho Teaching Assistant”, August/2023 -
-Gift | Marie Curie Entrance Exams - Popular Course;
+Present | Marie Curie Entrance Exams - Popular Course;
 * “Physics Girls”, March/2023 - October/2023|
 Scientific Dissemination - Federal University of Uberlân-
 day (UFU).
